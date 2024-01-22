@@ -18,7 +18,10 @@ editor_options:
 The required packages for this homework exercise have already been added.
 
 1.  Run the code chunk below to load the required packages. Tipp: Click on the green play button in the top right corner of the code chunk.
+
 2.  What's the `tidyverse` Package? Describe in maximum two sentences below.
+
+    It's a package that brings together a collection of extensions designed to work together, allowing you to import/export data, manipulate variables and data tables, visualize data, and more.
 
 ```{r}
 library(tidyverse)
